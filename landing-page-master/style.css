@@ -1,0 +1,20 @@
+body {font-family: Overpass;
+  color: #E4D047;
+  font-size: 15px;}
+
+h1{font-size: 30px ; color: #0E1711 ;}
+, h2, h3 {font-family: Chivo;}
+body{background-color:#294B35; }
+h1{text-align: center; font-size: 30px;}
+h2{text-align: center; font-size: 25px;}
+h5{text-align: center; font-size: 30px;}
+h6{text-align: center; font-size: 30px;}
+.banner{
+	background-image: url('https://i.guim.co.uk/img/media/d305370075686a053b46f5c0e6384e32b3c00f97/0_50_5231_3138/master/5231.jpg?width=620&quality=45&dpr=2&s=none');
+	padding: 150px;
+}
+
+.middle-content {
+	text-align: center;
+}
+.2book {text-align: center;}
